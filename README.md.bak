@@ -1,0 +1,5 @@
+clone project from git
+
+copy .env.example .env 
+
+run .\build.bat
